@@ -20,7 +20,7 @@ https://doi.org/10.1007/978-1-0716-4318-1_8
 ---
 
 ## Demo
-A small test dataset is included in `test_dataset/` to illustrate the workflow.  
+A small test dataset is included to illustrate the workflow.  
 
 ---
 
